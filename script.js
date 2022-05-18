@@ -5,7 +5,7 @@ let musicians = 4;
 }
  else if (musicians == 1){
     console.log('solo')
-}
+} 
 else if (musicians == 2){
     console.log('duet')
 }
